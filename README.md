@@ -1,2 +1,2 @@
-# My-library-definitly-no-copyright-
-it has copyright
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
